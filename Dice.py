@@ -1,6 +1,7 @@
 import random
 
 
+
 def dice_roll(NumDice):
     count = 0
     a = []
